@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Personal/Chaeho/MenuScene.unity
+    guid: 95d1f8c962bba664b8dcb4208faa3609
+  - enabled: 1
+    path: Assets/Personal/Chaeho/Stage1.unity
+    guid: 04208f5eb7998ca4a861977809726fe4
+  - enabled: 1
+    path: Assets/Personal/Hanyong/StoryScene.unity
+    guid: f7f8c72025c9d2948bd5524275292f1d
+  - enabled: 1
+    path: Assets/Personal/Hanyong/Ending.unity
+    guid: b366e1e2dc178064e97f77d057a0510a
+  - enabled: 1
+    path: Assets/Personal/Chaeho/ChaehoScene.unity
+    guid: f8d6787fb1418144bbb8315b31392140
+  - enabled: 1
+    path: Assets/Personal/Sihyun/test.unity
+    guid: 66ea0962ae6172141a18793bd4d3d6b4
+  - enabled: 1
+    path: Assets/Personal/Hanyong/Stage3/Stage3.unity
+    guid: b7cdba51f6032134783558145592f221
+  - enabled: 1
+    path: Assets/Personal/Chaeho/stroyScene.unity
+    guid: 2de19fba53a4a3f488a0570e56c1f4fb
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
